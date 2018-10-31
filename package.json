@@ -1,0 +1,20 @@
+{
+  "name": "xible-np-string",
+  "version": "0.1.0",
+  "description": "Nodepack for XIBLE to handle strings.",
+  "license": "MIT",
+  "homepage": "https://xible.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spectrumbroad/xible-np-string"
+  },
+  "bugs": {
+    "url": "https://github.com/spectrumbroad/xible-np-string/issues",
+    "email": "bugs@xible.io"
+  },
+  "keywords": [
+    "xible",
+    "string",
+    "nodepack"
+  ]
+}
